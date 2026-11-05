@@ -1,0 +1,10 @@
+# Flutter Native Splash - DISABLED
+# Kita pakai custom splash screen di lib/screens/splash_screen.dart
+
+# Uncomment baris di bawah kalau mau aktifkan lagi native splash
+# flutter_native_splash:
+#   color: "#00BCD4"
+#   image: assets/images/splash_icon.png
+#   android: true
+#   ios: true
+#   fullscreen: true

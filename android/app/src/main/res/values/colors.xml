@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash screen background color matching Flutter splash -->
+    <color name="splash_background">#00BCD4</color>
+    <!-- Launcher icon background color -->
+    <color name="ic_launcher_background">#00BCD4</color>
+</resources>
